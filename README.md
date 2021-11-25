@@ -4,7 +4,7 @@ The goal is classify the clothes into different categories. The dataset used is 
 To replicate the experiments and results
 1. Clone this repo
 2. Clone the above repo to get the dataset. The expected path to be cloned inside this repo, i.e. within this repo's working directory.
-3. Install the requirments in the requirments.txt file
+3. To install the requirments in the envname.yml file, run the following command `conda env create --file envname.yml`
 4. Open the notebook and run the cells.
 
 # Selected Model
